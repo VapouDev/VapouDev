@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a French student in computer science and business applications
+💻 I'm a French student in computer science and business applications
+
+🛡 Cybersecurity 
 
 ![Cover](https://github.com/VapouDev/VapouDev/blob/main/img/banner_developer-.jpg)
 
