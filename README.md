@@ -5,7 +5,7 @@
 🛡 Cybersecurity 
 </p>
 <p align ="center">
-  <img align="center" width="100%" src="https://media.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif" />
+  <img align="center" width="75%" src="https://media.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif" />
 </p>
 
 <!-- ![Cover](https://github.com/VapouDev/VapouDev/blob/main/img/banner_developer-.jpg)
