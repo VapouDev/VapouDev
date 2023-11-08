@@ -1,10 +1,14 @@
-### Hi there 👋
+<h1 align="center">  Hi there👋</h1>
 
-💻 I'm a French student in computer science and business applications
-
+<p align="center">
+💻 I'm a French student in computer science and business applications <br>
 🛡 Cybersecurity 
+</p>
+<p align ="center">
+  <img align="center" width="100%" src="https://media.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif" />
+</p>
 
-![Cover](https://github.com/VapouDev/VapouDev/blob/main/img/banner_developer-.jpg)
+<!-- ![Cover](https://github.com/VapouDev/VapouDev/blob/main/img/banner_developer-.jpg)
 
 <!--
 **VapouDev/VapouDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
