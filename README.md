@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a French student in computer science and business applications
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg](https://github.com/VapouDev/VapouDev/blob/main/img/banner_developer-.jpg)
 
 <!--
 **VapouDev/VapouDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
