@@ -13,6 +13,8 @@
 <a href="https://instagram.com/arthurvapou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurvapou" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vapoudev&show_icons=true&locale=en&layout=compact" alt="vapoudev" /></p>
+
 # Languages and Tools:
 
 ### Languages :
