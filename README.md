@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VapouDev</h1>
 <h3 align="center">French IT student, I'm learning cybersecurity, IT support, and web / application development!</h3>
 
-- 🌱 I'm going to learn **React, Android Dev, Docker, Git, and more**
+- 🌱 I'm going to learn **React, Android Dev, Docker, and more**
 
 - 📫 How to reach me: **ctvapou@proton.me** or on my Twitter / Instagram / Discord @vapou
 
