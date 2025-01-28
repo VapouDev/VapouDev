@@ -3,8 +3,6 @@
 
 - 📫 How to reach me: **ctvapou@proton.me** or on my Twitter / Instagram / Discord @vapou
 
-- 📄 Know about my experiences: **I've been passionate about IT and development since I was very young.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/vapou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vapou_" height="30" width="40" /></a>
